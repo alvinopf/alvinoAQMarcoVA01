@@ -25,7 +25,7 @@ Projeto de testes unitários automatizados para uma função de descontos progre
 
 - `src/ecommerce/desconto.py`: implementação corrigida.
 - `src/ecommerce/desconto_original.py`: cópia do código recebido do Dev Jr.
-- `src/tests/test_desconto.py`: 23 casos automatizados com Pytest.
+- `src/tests/test_desconto.py`: 28 casos automatizados com Pytest.
 - `src/tests/cenarios/cenarios_desconto.md`: cenários descritos textualmente.
 - `evidencias/`: relatórios e imagens das execuções antes e depois.
 
