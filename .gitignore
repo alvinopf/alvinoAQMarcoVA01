@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest-cache-files-*/
+
+# Ambiente virtual e variáveis locais
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Relatórios locais
+.coverage
+htmlcov/
+coverage.xml
